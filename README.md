@@ -64,6 +64,10 @@ CAIRO PLAYGROUND: https://www.cairo-lang.org/cairovm/
 
 ORACLES: https://docs.starknet.io/tools/oracles/
 
+AI AGENT: https://agent.starknet.id/
+
+USC: https://github.com/software-mansion/universal-sierra-compiler cargo install universal-sierra-compiler
+
 ---
 
 [Examples of Dapp Ideas on Starknet](DAPPS.md)
