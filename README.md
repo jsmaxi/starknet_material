@@ -28,6 +28,8 @@ CAIRO BOOK: https://book.cairo-lang.org/ https://www.cairo-lang.org/
 
 BLOCK EXPLORER: https://starkscan.co/
 
+VOYAGER BLOCK EXPLORER: https://sepolia.voyager.online/
+
 DAPPS: https://www.starknet.io/dapps/
 
 GRANTS: https://www.starknet.io/grants/
@@ -40,4 +42,28 @@ DOJO GAME ENGINE: https://dojoengine.com/
 
 POSSIBLE TO USE REMIX IDE TO MANAGE CAIRO CONTRACTS: https://remix.ethereum.org/
 
+NFT MARKETPLACE: https://unframed.co/
+
+SPEEDRUN STARKNET: https://speedrunstark.com/
+
+UTILS: https://www.stark-utils.xyz/
+
+DEVTOOLS DOCS: https://docs.starknet.io/tools/devtools/overview/
+
+VSCODE EXTENSION: https://docs.starknet.io/tools/devtools/vscode/
+
+STARKNET REACT: https://github.com/apibara/starknet-react https://docs.starknet.io/tools/devtools/libs-for-dapps/
+
+SCAFFOLD: https://scaffoldstark.com/ https://www.starknetscaffold.xyz/ https://docs.starknet.io/tools/devtools/dapp-frameworks/
+
+OPENZEPPELIN CONTRACT WIZZARD: https://wizard.openzeppelin.com/cairo
+
+RPC REQUEST BUILDER: https://rpc-request-builder.voyager.online/
+
+CAIRO PLAYGROUND: https://www.cairo-lang.org/cairovm/
+
+ORACLES: https://docs.starknet.io/tools/oracles/
+
 ---
+
+![Tools](./devtools.svg "Tools")
