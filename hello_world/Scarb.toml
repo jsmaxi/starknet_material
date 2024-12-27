@@ -12,9 +12,6 @@ starknet = "2.9.2"
 snforge_std = "0.35.1"
 assert_macros = "2.9.2"
 
-[[target.starknet-contract]]
-sierra = true
-
 [scripts]
 test = "snforge test"
 

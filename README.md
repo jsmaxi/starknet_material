@@ -86,6 +86,8 @@ scarb cairo-run
 
 scarb test
 
+scarb fmt
+
 ```
 
 ---
