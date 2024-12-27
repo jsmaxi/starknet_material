@@ -66,4 +66,6 @@ ORACLES: https://docs.starknet.io/tools/oracles/
 
 ---
 
+[Examples of Dapp Ideas on Starknet](DAPPS.md)
+
 ![Tools](./devtools.svg "Tools")
