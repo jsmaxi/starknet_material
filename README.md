@@ -70,6 +70,26 @@ USC: https://github.com/software-mansion/universal-sierra-compiler cargo install
 
 ---
 
+Commands:
+
+```
+
+scarb --version
+
+scarb new hello_world
+
+cd hello_world
+
+scarb build
+
+scarb cairo-run
+
+scarb test
+
+```
+
+---
+
 [Examples of Dapp Ideas on Starknet](DAPPS.md)
 
 ![Tools](./devtools.svg "Tools")
