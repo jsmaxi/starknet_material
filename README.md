@@ -1,4 +1,4 @@
-# StarkNet Material
+# Starknet Material
 
 ![Logo](./starknet.png?raw=true "Logo")
 
